@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wordpress/block-editor": "^9.3.0"
+  }
+}

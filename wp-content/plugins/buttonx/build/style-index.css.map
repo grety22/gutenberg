@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACI;AACJ,C","sources":["webpack://buttonx/./src/style.scss"],"sourcesContent":[".wp-block-castle-blocks-buttonx {\r\n    background-color: aquamarine;\r\n}"],"names":[],"sourceRoot":""}
